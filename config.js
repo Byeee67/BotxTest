@@ -14,7 +14,7 @@ let fs = require('fs')
 let chalk = require('chalk')
 
 global.linkGC = ['https://chat.whatsapp.com/GNOimnXOQoR10oOjCsadXZ','']
-global.owner = ['6285795035419','6289688069444']
+global.owner = ['6285795035419','6289688069444','62895322095252']
 global.mods = ['6285795035419'] // Moderator
 global.image = 'https://telegra.ph/file/0572e0fe0501890afc9b0.jpg'
 global.wait = '[Wait] Sedang di proses...'
